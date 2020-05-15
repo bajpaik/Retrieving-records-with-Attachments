@@ -1,4 +1,4 @@
-//NEED TO BE MODIFIED A BIT AS PER YOUR REQUIREMENT
+//NEED TO BE MODIFIED AS PER YOUR REQUIREMENT
 
 var IntegrationUtils = Class.create();
 IntegrationUtils.prototype = {
